@@ -22,3 +22,10 @@ Download the MMHS150K dataset:
 ## Source Code
 
 The source code associated with the paper will be available soon.
+
+
+## Authors
+
+ 1. Phuc H. Duong (Corresponding author) / Email: duonghuuphuc@tdtu.edu.vn / Artificial Intelligence Laboratory, Faculty of Information Technology, Ton Duc Thang University, Ho Chi Minh City, Vietnam
+ 2. Truc T. Nguyen / Email: nguyenthanhtruc@tdtu.edu.vn / Center for Applied Information Technology, Ton Duc Thang University, Ho Chi Minh City, Vietnam
+ 3. Hien T. Nguyen / Email: hiennt.mis@buh.edu.vn / Department of Economic Mathematics, Banking University of Ho Chi Minh City, Ho Chi Minh City, Vietnam
