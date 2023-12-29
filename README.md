@@ -1,2 +1,24 @@
-# mmhs2023
-Resources of the paper "Fusion Network for Multimodal Hate Speech Detection"
+# Fusion Network for Multimodal Hate Speech Detection
+
+
+`This paper has been submitted to the 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024) and is under review.`
+
+
+## Abstract
+
+In an era where social network platforms are increasingly plagued by harmful content, effective detection methods are crucial for maintaining healthy online communities. In this paper, we introduce a multimodal approach to hate speech detection, leveraging a fusion network that integrates text and image analysis. We mainly use state-of-the-art pre-trained language models like DistilBERT, MPNet, and image processing models such as ResNet and EfficientNetV2. These models facilitate a nuanced understanding of both intra- and inter-modality content dynamics. Additionally, we compare the effectiveness of context-free word embedding models like GloVe and fastText with contextual language models. Extensive experiments on the MMHS150K dataset, a popular and specialized dataset for multimodal hate speech analysis, demonstrate competitive performance compared with existing multimodal hate speech detection methods.
+
+
+## Dataset
+
+The proposed model is evaluated using the [MMHS150K](https://gombru.github.io/2019/10/09/MMHS/) dataset, a manually annotated multimodal hate speech dataset consisting of 150,000 tweets. Each tweet contains both text and an image. It is noted that some instances in the dataset include `image_text`, which refers to text within an image, extracted using OCR techniques.
+
+Download the MMHS150K dataset:
+
+ - Original dataset ([Direct Link](http://datasets.cvc.uab.es/MMHS150K/MMHS150K.zip) | [Google Drive](https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view?usp=sharing))
+ - For the preprocessed dataset used in the paper, please send me an email at HuuPhucDuong@gmail.com.
+
+
+## Source Code
+
+The source code associated with the paper will be available soon.
