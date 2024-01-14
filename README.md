@@ -1,7 +1,7 @@
 # Fusion Network for Multimodal Hate Speech Detection
 
 
-`This paper has been submitted to the 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024) and is under review.`
+`The paper has been accepted for presentation at the 9th International Conference on Intelligent Information Technology (ICIIT 2024) in 2024.`
 
 
 ## Abstract
@@ -16,12 +16,12 @@ The proposed model is evaluated using the [MMHS150K](https://gombru.github.io/20
 Download the MMHS150K dataset:
 
  - Original dataset ([Direct Link](http://datasets.cvc.uab.es/MMHS150K/MMHS150K.zip) | [Google Drive](https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view?usp=sharing))
- - For the preprocessed dataset used in the paper, please send me an email at HuuPhucDuong@gmail.com.
+ - For the preprocessed dataset used in the paper, please send me an email at dhp@DeepLearning.com.vn.
 
 
 ## Source Code
 
-The source code associated with the paper will be available soon.
+The source code and pre-trained hate speech detection models associated with the paper will be available soon.
 
 
 ## Authors
