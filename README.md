@@ -1,9 +1,6 @@
 # Fusion Network for Multimodal Hate Speech Detection
 
 
-`The paper has been accepted for presentation at the 9th International Conference on Intelligent Information Technology (ICIIT 2024) in 2024.`
-
-
 ## Abstract
 
 In an era where social network platforms are increasingly plagued by harmful content, effective detection methods are crucial for maintaining healthy online communities. In this paper, we introduce a multimodal approach to hate speech detection, leveraging a fusion network that integrates text and image analysis. We mainly use state-of-the-art pre-trained language models like DistilBERT, MPNet, and image processing models such as ResNet and EfficientNetV2. These models facilitate a nuanced understanding of both intra- and inter-modality content dynamics. Additionally, we compare the effectiveness of context-free word embedding models like GloVe and fastText with contextual language models. Extensive experiments on the MMHS150K dataset, a popular and specialized dataset for multimodal hate speech analysis, demonstrate competitive performance compared with existing multimodal hate speech detection methods.
@@ -29,3 +26,26 @@ The source code and pre-trained hate speech detection models associated with the
  1. Phuc H. Duong (Corresponding author) / Email: duonghuuphuc@tdtu.edu.vn / Artificial Intelligence Laboratory, Faculty of Information Technology, Ton Duc Thang University, Ho Chi Minh City, Vietnam
  2. Truc T. Nguyen / Email: nguyenthanhtruc@tdtu.edu.vn / Center for Applied Information Technology, Ton Duc Thang University, Ho Chi Minh City, Vietnam
  3. Hien T. Nguyen / Email: hiennt.mis@buh.edu.vn / Department of Economic Mathematics, Banking University of Ho Chi Minh City, Ho Chi Minh City, Vietnam
+
+
+ ## Cite (BibTex Format)
+ ```
+    @inproceedings{10.1145/3654522.3654562,
+        author = {Duong, Phuc H. and Nguyen, Truc T. and Nguyen, Hien T.},
+        title = {Fusion Network for Multimodal Hate Speech Detection},
+        year = {2024},
+        isbn = {9798400716713},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        url = {https://doi.org/10.1145/3654522.3654562},
+        doi = {10.1145/3654522.3654562},
+        booktitle = {Proceedings of the 2024 9th International Conference on Intelligent Information Technology},
+        pages = {1},
+        location = {Ho Chi Minh City, Vietnam},
+        series = {ICIIT '24}
+    }
+ ```
+
+
+ ## Download PDF Version
+ [https://dl.acm.org/doi/10.1145/3654522.3654562](https://dl.acm.org/doi/10.1145/3654522.3654562)
